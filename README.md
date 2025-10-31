@@ -36,7 +36,7 @@ Los textos incluidos aquí son pilares en la formación teórica de machine lear
 
 Este repositorio está pensado para compartir, aprender y construir juntos. Si estás comenzando en machine learning o quieres reforzar tus fundamentos, **te invito a explorar, comentar y contribuir**.
 
-También puedes seguir mis publicaciones en [LinkedIn](www.linkedin.com/in/alejandrofigueroarojas) donde comparto proyectos, visualizaciones y reflexiones técnicas.
+También puedes seguir mis publicaciones en [LinkedIn](https://linkedin.com/in/alejandrofigueroarojas) donde comparto proyectos, visualizaciones y reflexiones técnicas.
 
 ---
 
