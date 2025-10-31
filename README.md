@@ -4,8 +4,10 @@ Este repositorio reúne material de apoyo teórico para quienes desean comprende
 
 ## 🎯 Propósito
 
-Como egresado de Ingeniería Comercial con formación intensiva en Business Analytics, he comprobado que dominar los modelos no basta. Para aplicar machine learning con criterio y precisión, es indispensable entender su estructura interna, sus supuestos y los fundamentos matemáticos que los sostienen.
+Como Ingeniero Comercial con formación intensiva en Business Analytics, he comprobado que dominar los modelos no basta. Para aplicar machine learning con criterio y precisión, es indispensable entender su estructura interna, sus supuestos y los fundamentos matemáticos que los sostienen.
+
 Este repositorio nace de mi obsesión positiva por la excelencia técnica y visual. No se trata solo de ejecutar código, sino de explorar lo que hay detrás de cada algoritmo o modelo, y de rendir homenaje a la elegancia y precisión de las matemáticas que los hacen posibles.
+
 Aquí comparto recursos, referencias y reflexiones que conectan la práctica computacional con el rigor académico. Mi objetivo es ofrecer un punto de partida para quienes, como yo, buscan ir más allá del resultado y comprender la lógica profunda que da vida al aprendizaje automático.
 
 
